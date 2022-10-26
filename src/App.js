@@ -16,6 +16,7 @@ const App = () => {
         spellCheck="false"
         onChange={handleChange}
         type="text"
+        placeholder="Enter text to encode"
       ></textarea>
       <textarea spellCheck="false" value={encoded} type="text"></textarea>
     </form>
