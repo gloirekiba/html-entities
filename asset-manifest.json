@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/html-entities/static/css/main.be947f04.css",
+    "main.js": "/html-entities/static/js/main.4e4625aa.js",
+    "static/media/Monaco.ttf": "/html-entities/static/media/Monaco.b55576c32bebc9c8a480.ttf",
+    "index.html": "/html-entities/index.html",
+    "main.be947f04.css.map": "/html-entities/static/css/main.be947f04.css.map",
+    "main.4e4625aa.js.map": "/html-entities/static/js/main.4e4625aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be947f04.css",
+    "static/js/main.4e4625aa.js"
+  ]
+}
